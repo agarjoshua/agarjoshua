@@ -51,7 +51,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+ instagram: agar_joshua
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -75,6 +75,7 @@ share-links-active:
   facebook: true
   linkedin: true
   vk: false
+  whatsapp: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -90,7 +91,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "God,Tech,Business,Life"
 
 # --- Colours / background image --- #
 
@@ -115,7 +116,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
