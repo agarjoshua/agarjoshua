@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning how to build more robust and fast backend systems, and I am also working on a few machine learning projects.
 - 💞️ I’m looking to collaborate on any interesting backend development and/or ML projects on PT or FT capacity; I'm a sucker for continually optimizing backend systems to make them efficient and have developed a love for ML.
 - :arrow_heading_up: My current goal is to become an expert backend and ML engineer in 2 years; that is my current point of focus.
-- 📫 Email me at : Email joshuaagarjj@gmail.com
+- 📫 Email me at : Email joshuaagarjj@gmail.com .
 
